@@ -27,6 +27,7 @@ After the learning process it will print out the trained graph with the best pos
 ., ., .,  1.0
 ., X, ., -1.0
 I, ., .,    .
+
 to
 
 >      >      >      o     
